@@ -8,6 +8,7 @@
     "src/main.ts"
   ],
   "include": [
-    "src/**/*.d.ts"
+    "src/**/*.d.ts",
+    "node_modules\\@stk\\srv\\fesm2022\\stk-srv.mjs"
   ]
 }

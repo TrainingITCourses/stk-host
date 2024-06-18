@@ -1,3 +1,6 @@
 {
-  "mfe1": "http://localhost:4201/remoteEntry.json"
+  "mfe1": "http://localhost:4201/remoteEntry.json",
+  "mfe2": "http://localhost:4202/remoteEntry.json",
+  "mfe1_prod": "https://albertobasalo.dev/one/remoteEntry.json",
+  "mfe2_prod": "https://albertobasalo.dev/two/remoteEntry.json"
 }
